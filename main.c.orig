@@ -5,15 +5,15 @@ Initial Function()
   //Sample Code
 }
 
-
+<<<<<<< HEAD
 Initial Function2()
 {
  //Sample Code
-
+=======
 feature1()
 {
   secuirty patch for Feature 1
-
+>>>>>>> feature1
 }
 
 
